@@ -1,4 +1,4 @@
-package kata5;
+package View;
 
 import java.awt.Dimension;
 import org.jfree.chart.ChartFactory;

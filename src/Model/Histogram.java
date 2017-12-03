@@ -1,4 +1,4 @@
-package kata5;
+package Model;
 
 import java.util.HashMap;
 import java.util.Set;

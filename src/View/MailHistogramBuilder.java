@@ -1,4 +1,4 @@
-package kata5;
+package View;
 
 import java.util.ArrayList;
 
